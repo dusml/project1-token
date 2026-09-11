@@ -1,0 +1,74 @@
+{
+  "font-size": {
+    "display": {
+      "$value": 48,
+      "$type": "number"
+    },
+    "h1": {
+      "$value": 36,
+      "$type": "number"
+    },
+    "h2": {
+      "$value": 28,
+      "$type": "number"
+    },
+    "h3": {
+      "$value": 20,
+      "$type": "number"
+    },
+    "body-lg": {
+      "$value": 18,
+      "$type": "number"
+    },
+    "body": {
+      "$value": 16,
+      "$type": "number"
+    },
+    "body-sm": {
+      "$value": 14,
+      "$type": "number"
+    },
+    "caption": {
+      "$value": 12,
+      "$type": "number"
+    }
+  },
+  "line-height": {
+    "tight": {
+      "$value": 1.149999976158142,
+      "$type": "number"
+    },
+    "tight-md": {
+      "$value": 1.350000023841858,
+      "$type": "number"
+    },
+    "normal": {
+      "$value": 1.600000023841858,
+      "$type": "number"
+    }
+  },
+  "letter-spacing": {
+    "tight": {
+      "$value": -0.009999999776482582,
+      "$type": "number"
+    },
+    "normal": {
+      "$value": 0,
+      "$type": "number"
+    },
+    "wide": {
+      "$value": 0.07999999821186066,
+      "$type": "number"
+    }
+  },
+  "font-family": {
+    "primary": {
+      "$value": "manrope",
+      "$type": "string"
+    },
+    "display": {
+      "$value": "String value",
+      "$type": "string"
+    }
+  }
+}
