@@ -1,0 +1,24 @@
+{
+  "name": "project1-token",
+  "version": "1.0.0",
+  "description": "project1-token",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build-tokens.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dusml/project1-token.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dusml/project1-token/issues"
+  },
+  "homepage": "https://github.com/dusml/project1-token#readme",
+  "devDependencies": {
+    "style-dictionary": "^5.5.3"
+  }
+}
