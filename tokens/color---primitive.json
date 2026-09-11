@@ -1,0 +1,48 @@
+{
+  "white": {
+    "$value": "#ffffff",
+    "$type": "color"
+  },
+  "skyblue": {
+    "100": {
+      "$value": "#cce1f4",
+      "$type": "color"
+    },
+    "500": {
+      "$value": "#4ab4ff",
+      "$type": "color"
+    },
+    "600": {
+      "$value": "#0873bf",
+      "$type": "color"
+    },
+    "700": {
+      "$value": "#0d619d",
+      "$type": "color"
+    },
+    "900": {
+      "$value": "#20354f",
+      "$type": "color"
+    }
+  },
+  "black": {
+    "$value": "#111111",
+    "$type": "color"
+  },
+  "cream": {
+    "$value": "#fffff9",
+    "$type": "color"
+  },
+  "gray": {
+    "$value": "#9e9e9e",
+    "$type": "color"
+  },
+  "Ivory": {
+    "$value": "#f2f3f8",
+    "$type": "color"
+  },
+  "light-gray": {
+    "$value": "#d0d0d0",
+    "$type": "color"
+  }
+}
