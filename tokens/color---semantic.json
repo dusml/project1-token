@@ -1,0 +1,100 @@
+{
+  "surface": {
+    "default": {
+      "$value": "{cream}",
+      "$type": "color"
+    },
+    "brand": {
+      "$value": "{skyblue.500}",
+      "$type": "color"
+    },
+    "primary": {
+      "$value": "{skyblue.600}",
+      "$type": "color"
+    },
+    "strong": {
+      "$value": "{skyblue.700}",
+      "$type": "color"
+    },
+    "inverse": {
+      "$value": "{skyblue.900}",
+      "$type": "color"
+    }
+  },
+  "brand": {
+    "primary": {
+      "$value": "{skyblue.500}",
+      "$type": "color"
+    },
+    "primary-hover": {
+      "$value": "{skyblue.700}",
+      "$type": "color"
+    },
+    "soft": {
+      "$value": "{skyblue.100}",
+      "$type": "color"
+    },
+    "strong": {
+      "$value": "{skyblue.900}",
+      "$type": "color"
+    },
+    "secondary": {
+      "$value": "{skyblue.600}",
+      "$type": "color"
+    }
+  },
+  "text": {
+    "black": {
+      "$value": "{black}",
+      "$type": "color"
+    },
+    "secondary": {
+      "$value": "{gray}",
+      "$type": "color"
+    },
+    "brand": {
+      "$value": "{skyblue.500}",
+      "$type": "color"
+    },
+    "white": {
+      "$value": "{white}",
+      "$type": "color"
+    },
+    "accent-strong": {
+      "$value": "{skyblue.900}",
+      "$type": "color"
+    },
+    "accent": {
+      "$value": "{skyblue.600}",
+      "$type": "color"
+    },
+    "third": {
+      "$value": "{light-gray}",
+      "$type": "color"
+    }
+  },
+  "border": {
+    "default": {
+      "$value": "{skyblue.500}",
+      "$type": "color"
+    },
+    "secondary": {
+      "$value": "{skyblue.600}",
+      "$type": "color"
+    }
+  },
+  "badge": {
+    "primary-bg": {
+      "$value": "{skyblue.500}",
+      "$type": "color"
+    },
+    "secondary-bg": {
+      "$value": "{skyblue.700}",
+      "$type": "color"
+    },
+    "text": {
+      "$value": "{white}",
+      "$type": "color"
+    }
+  }
+}
